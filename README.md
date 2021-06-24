@@ -10,7 +10,7 @@
 
 I am a human who has curiosity and a high desire to learn something new
 
-<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
+<img align="right" alt="GIF" src="https://github.com/RidoCa/RidoCa/blob/main/coding.gif?raw=true" width="408" height="318" />
 
 **Talking about Personal Stuffs:**
 
