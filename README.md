@@ -15,7 +15,7 @@ I am a human who has curiosity and a high desire to learn something new
 **Talking about Personal Stuffs:**
 
 - 👨🏻‍💻 I’m currently working on something cool;
-- 🚀 I’m currently learning Fullstack Developer
+- 🚀 I’m currently learning Blockchain
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: ridoca22@gmail.com;
 
